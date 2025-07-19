@@ -1,0 +1,2 @@
+# LocalRepoProject
+#WELCOME TO GIT
