@@ -1,2 +1,1 @@
-# LocalRepoProject
-#WELCOME TO GIT
+This is the description of my repo
